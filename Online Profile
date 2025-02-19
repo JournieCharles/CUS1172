@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<head>
+    <title> My Online Profile</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; }
+        section { margin-bottom: 20px; }
+        img { width: 150px; border-radius: 50%; }
+        ul { list-style-type: none; padding: 0; }
+        li { margin-bottom: 5px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1> My Online Profile</h1>
+    </header>
+
+    <section id="profile">
+        <h2>Basic Profile Information</h2>
+        <img src="Unkown-2.jpeg" alt="Profile Picture">
+        <p>Name: Journie Charles</p>
+        <p>Major/Minor: Information Technology/Business Administration</p>
+    </section>
+    <section id="education">
+        <h2>Education Summary</h2>
+        <p>I first came to campus with an undecided major and no clue what I wanted to do when it came to my education. I started to take business classes and I really enjoyed taking them. I visted my advisor and she advised me to try a computer science class and after taking one class I figured out my major and my minor. This is my last semester and I'm hoping to get my degree at the end of the semester.</p>
+
+    </section>
+
+    <section id="experience">
+        <h2>Work Experience/Internships</h2>
+        <ul>
+            <li>Job/Internship 1</li>
+            <li>I interned in the finance department of Maimonides Medical Center for the summer. </li>
+        </ul>
+    </section>
+
+    <section id="skills">
+        <h2>Programming Skills</h2>
+        <ul>
+            <li>Language: Java- I took Programming 1 and 2 classes </li>
+        </ul>
+    </section>
+
+    <section id="intrests">
+        <h2>General Intrests</h2>
+        <p>My intrest are Art, Music, Cooking. I love to paint on my free time and listen to music while doing it. I love to cooking almost everyday trying new recipes to get further knowledge about techniques. </p>
+    </section>
+
+    <section id="favorites">
+        <h2>Favorites</h2>
+        <p>Favorite Song: Seven By: Jung Kook</p>
+        <iframe src="https://www.youtube.com/watch?v=90oNKI8UDvo" width="300" height="200"></iframe>
+        <p> Favorite TV Show: Gossip Girl</p>
+        <iframe src="https://www.netflix.com/search?q=gossip&jbv=70143811" width="300" height="200"></iframe>
+        <p> Favorite Film: Red Notice </p>
+        <iframe src="https://www.netflix.com/search?q=red%20notice&jbv=81161626" width="300" height="200"></iframe>
+    </section>
+
+
+</body>
+</html>
