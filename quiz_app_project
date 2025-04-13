@@ -1,0 +1,7 @@
+<script>start("/Users/journiecharles/quiz_app_project/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("template_project","template_project",1,192,"192 B",1744509068,"4/12/25, 9:51:08 PM");</script>
+<script>addRow("app_project.js","app_project.js",0,0,"0 B",1744508798,"4/12/25, 9:46:38 PM");</script>
+<script>addRow("quiz_projectjson_database.js","quiz_projectjson_database.js",0,982,"982 B",1744512534,"4/12/25, 10:48:54 PM");</script>
+<script>addRow("quiz_projectserver.js","quiz_projectserver.js",0,798,"798 B",1744512534,"4/12/25, 10:48:54 PM");</script>
+<script>addRow("style_project.css","style_project.css",0,1734,"1.7 kB",1744512505,"4/12/25, 10:48:25 PM");</script>
