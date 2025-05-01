@@ -1,0 +1,20 @@
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
+.task-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-radius: 5px;
+}
+.high{
+    background-color: white;
+}
+.medium {
+    background-color: lightblue;
+}
+.low {
+    background-color: blue;
+}
