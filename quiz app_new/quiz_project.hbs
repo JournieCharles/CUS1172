@@ -1,0 +1,16 @@
+<div id="scoreboard">
+  <span>Question: {{currentIndex}}/{{total}}</span>
+  <span>Time: {{elapsedTime}}s</span>
+  <span>Score: {{score}}</span>
+</div>
+<div id="question-box">
+  <h2>{{question.text}}</h2>
+  {{#if question.options}}
+    {{#each question.options}}
+      <button class="option-btn" data-answer="{{this}}">{{this}}</button>
+    {{/each}}
+  {{else}}
+    <input type="text" id="text-answer" placeholder="Your answer"/>
+    <button id="submit-answer">Submit</button>
+  {{/if}}
+</div>
